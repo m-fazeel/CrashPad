@@ -19,3 +19,6 @@ As students ourselves, we understand the importance of managing expenses, with r
 - **Customizable Preferences**: Users can set preferences like smoking, drinking, pets, etc., to find a compatible roommate.
 - **Filtering System**: A sophisticated filtering system allows users to search for roommates based on their set preferences, ensuring a better match.
 
+## Contributing
+We welcome contributions to CrashPad! If you have suggestions or want to contribute to the codebase, please feel free to submit an issue or pull request on our repository.
+
