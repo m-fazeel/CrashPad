@@ -6,4 +6,11 @@ CrashPad is an innovative roommate finder designed to connect people in a way th
 ## Inspiration
 As students ourselves, we understand the importance of managing expenses, with rent being a major factor. The challenge of finding a suitable roommate can often be daunting and stressful. CrashPad was inspired by the need for a streamlined, efficient, and enjoyable roommate-finding process, transforming it into a positive and fun experience.
 
+## Technologies Used
+- **React**: For building the user interface.
+- **Node and Express**: For backend development.
+- **Auth0 with GitHub**: For secure authentication.
+- **Railway Database with Postgres**: For robust data management.
+- **Tailwind CSS and Material UI**: For styling and designing the frontend.
+
 
