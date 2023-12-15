@@ -22,3 +22,5 @@ As students ourselves, we understand the importance of managing expenses, with r
 ## Contributing
 We welcome contributions to CrashPad! If you have suggestions or want to contribute to the codebase, please feel free to submit an issue or pull request on our repository.
 
+## Acknowledgements
+Special thanks to Pranav Jain for his significant contributions to the project.
