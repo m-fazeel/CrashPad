@@ -13,4 +13,9 @@ As students ourselves, we understand the importance of managing expenses, with r
 - **Railway Database with Postgres**: For robust data management.
 - **Tailwind CSS and Material UI**: For styling and designing the frontend.
 
+## Features
+- **Apartment Listings**: Users can view a list of potential apartments, complete with basic information such as title, description, and pricing.
+- **User Profiles**: Limited profile details are available, ensuring privacy while providing essential information.
+- **Customizable Preferences**: Users can set preferences like smoking, drinking, pets, etc., to find a compatible roommate.
+- **Filtering System**: A sophisticated filtering system allows users to search for roommates based on their set preferences, ensuring a better match.
 
